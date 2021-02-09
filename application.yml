@@ -8,4 +8,7 @@ spring:
     hibernate:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6bbc0d5a1f76b1dff0a01c38f96bef6ff89721fd
