@@ -4,7 +4,7 @@ spring:
     url: jdbc:mysql://localhost:3306/wathsala?createDatabaseIfNotExist=true
     username: root
     password: Wathsala@1234
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
       naming:
